@@ -16,6 +16,7 @@ Total characters: 359
 Average elements per line: 2.14285714285714285714
 ```
 Usage: ./countf.sh [options] filename_or_directory
+```bash
 Options:
   --comma              Use comma as delimiter instead of spaces
   --delimiter CHAR     Use specified character as delimiter
@@ -32,3 +33,4 @@ Options:
   --least              Show the line with the least elements
   --everything         Activate all flags together
   --help               Display this help message
+```
