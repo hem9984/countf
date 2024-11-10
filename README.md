@@ -2,7 +2,7 @@ Gain insight into the structure and statistics of any directory or file
 
 ```bash
 chmod +x countf.sh
-countf <file>
+./countf <file>
 ```
 
 example output:
